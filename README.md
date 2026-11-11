@@ -4,7 +4,7 @@
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Motivated and detail-oriented cybersecurity learner.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
